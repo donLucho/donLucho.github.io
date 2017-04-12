@@ -1,0 +1,26 @@
+{
+  "name": "donLucho.github.io",
+  "authors": [
+    "donLucho <donluchodev@outlook.com>"
+  ],
+  "description": "My github.io front facing index page for curating personal projects",
+  "main": "index.html",
+  "keywords": [
+    "html5",
+    "javascript",
+    "css3",
+    "gulp",
+    "sass"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/donLucho/donLucho.github.io#readme",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {}
+}

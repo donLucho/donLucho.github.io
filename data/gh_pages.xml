@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site>  
+  <projects>
+    <project>
+      <id>APIs_A</id>
+      <navicon>navicon_001</navicon>
+      <title>APIs</title>
+      <image_path>img/project/1_apis.jpg</image_path>
+      <info>Focus on APIs at your disposal</info>
+      <content>This is a utilitarian tool first and foremost. If it has some aestheticism it is due to a lesson on responsive design by a gentleman named Brad Frost who had a lesson called "This is Responsive." I subsequently tweaked the design afterwards for this tool. </content>
+      <back>Back to the top</back>
+      <client>For anybody's personal use</client>
+      <media>Feature Testing for Web Capabilities</media>
+      <technology>gulp, sass, javascript </technology>
+      <link>https://donLucho.github.io/apis/</link>
+      <code>https://github.com/donLucho/apis/</code>
+      <callout>APIs for you</callout>
+      <minor_detail>What your browser is doing right now</minor_detail>
+    </project>
+    <project>
+      <id>Parallax_A</id>
+      <navicon>navicon_002</navicon>
+      <title>Banana Nutcake Plus</title>
+      <image_path>img/project/2_parallax.jpg</image_path>
+      <info>Parallax Effect without JQuery</info>
+      <content>A mobile friendly rendition of the parallax concept reworked for inclusiveness.</content>
+      <back>Back to the top</back>
+      <client>For anybody's personal use</client>
+      <media>Web experience for any device with javascript</media>
+      <technology>gulp, sass, mobile-friendly javascript</technology>
+      <link>https://donLucho.github.io/parallax/</link>
+      <code>https://github.com/donLucho/parallax/</code>
+      <callout>Ideal for mobile</callout>
+      <minor_detail>Achieving Parallax Effect Without JQuery</minor_detail>
+    </project>
+    <project>
+      <id>Twbs1_A</id>
+      <navicon>navicon_003</navicon>
+      <title>Jumbotron Exercise 1</title>
+      <image_path>img/project/3_twbs_1.jpg</image_path>
+      <info>Focus on Twbs v4~alpha</info>
+      <content>I have made a date agnostic update to an existing Bootstrap project hoping that not much has changed since 2014.</content>
+      <back>Back to the top</back>
+      <client>For anybody's personal use</client>
+      <media>Web experience on any device with TWBS</media>
+      <technology>gulp, sass, bower, bootstrap, javascript</technology>
+      <link>https://donLucho.github.io/jumbotron_exercise_1/</link>
+      <code>https://github.com/donLucho/jumbotron_exercise_1/</code>
+      <callout>As light as air</callout>
+      <minor_detail>A simple XHRv1 project refactored for present day 2017.</minor_detail>
+    </project>
+    <project>
+      <id>Twbs2_A</id>
+      <navicon>navicon_004</navicon>
+      <title>Jumbotron Exercise 2</title>
+      <image_path>img/project/4_twbs_2.jpg</image_path>
+      <info>Focus on Twbs v4~alpha</info>
+      <content>This is another date agnostic update to an existing Bootstrap project, too, from 2014.</content>
+      <back>Back to the top</back>
+      <client>For anybody's personal use</client>
+      <media>Web experience on any device with TWBS</media>
+      <technology>gulp, sass, bower, bootstrap, javascript</technology>
+      <link>https://donLucho.github.io/jumbotron_exercise_2/</link>
+      <code>https://github.com/donLucho/jumbotron_exercise_2</code>
+      <callout>As light as air</callout>
+      <minor_detail>A simple XHRv1 project refactored for present day 2017.</minor_detail>
+    </project>
+  </projects>
+  <news>
+    <article>
+      <title>Qualifications and Experience</title>
+      <info>Looking at the bigger picture</info>
+      <content><![CDATA[<div class="captioned_photo"><img src="img/motivation/8.jpg" width="" height="" alt="" class="newsLink" /><figcaption>Luis Artavia</figcaption><strong class="allClear">Luis Artavia</strong><span>&lsquo;Standards&#45;based&rsquo; [prefixed] Front&#45;end Coding</span></div><p class="newsLinkContent">I am equipped to work well with designers, developers, clients, and directors based on my volunteer, extracurricular, and career experiences. I would be a positively motivating force, as well as, a generative asset to you. As my career experience on paper will show I have demonstrated resilience in the face of unpredictable obstacles. I have been known to do whatever to takes to survive with the Lord&rsquo;s help. It is said, that a person learns a lot about character during times of hardship. I&rsquo;d say that makes me qualified, too. </p><br class="backup" />]]></content>
+    </article>
+    <article>
+      <title>Context is everything</title>
+      <info>Knowing and anticipating my audience</info>
+      <content><![CDATA[<div class="captioned_photo"><img src="img/motivation/6.jpg" width="" height="" alt="" class="newsLink" /><figcaption>Luis Artavia</figcaption><strong class="allClear">Luis Artavia</strong><span>API &lsquo;Interoperability&rsquo; &amp; Specification &lsquo;Purism&rsquo;</span></div><p class="newsLinkContent">A closer is going to know a project inside and out. And, a closer is anyone who has a hand in developing code but eventually it is the last person that assures the client everything is up to snuff. Programming is no different than having a luxury car compared to a compact car. In our world, progressive enhancement is similar to the luxury car while graceful degradation can be considered the compact car in the same example. Our vehicle, experience, or user interface in the case of progressive enhancement is forward extensible, and it is about embracing the future from the point of being standards&#45;compliant. It exists because some of our users have the tools to ensure that a web experience agrees with almost no differences across a gamut of compliant browsers&#45; five (5) years ago, I would have told you desktop but today mobile is the new destop. Well, the same is true for mobile but to a lesser extent. Consulting caniuse helps with additional strategies, too. Our progressive enhancement browser is all about expanding expectations as time goes on since any limitations are temporary as more specifications come online. But with any other smaller vehicle, lighter experience, or amended user interface in the case of graceful degradation is limited, and it exists only because of necessity. Graceful degradation in sum is about delivering equal expectations to all groups. And, you can define it further as going beyond the point of view of best modern practices because now you are making sure that certain historical markets or segments are being catered by some semblance of a functional site.</p><p class="newsLinkContent">I am all about good practices with my javascript. I like to keep thing DRY. I also like Grunt and Gulp. I have a little Grunt forward&#45;deployable nugget that is WordPress&#45;specific so that code can be produced, then, refreshed with watch and server expressions with the greyed&#45;out comment template printed at the top so that custom templates can understand what is going on, too. I like creating closures because the less objects there are in global scope, then, your website site has the potential to be more performant. If you consult <a href="http://www.mankz.com/code/GlobalCheck.htm" target="_blank">this site</a> you yourself can compare the number of global objects in different libraries. The less the better. As we know, closures are our friends. IIFEs as I like to call &lsquo;em which is short for &quot;individually invoked functional expression.&quot; As you know, a closure is created when a function is returned from another function where the latter function retains its original scope. </p><p class="newsLinkContent">I do not do it as often as I like because I feel I am often in a rush, but I am a proponent of destroying objects once you are through with them to improve V8 engine utilization. For example, if a create a date object in order to fit it into a subsequent cookie object which is dependent on that date, I will definitely need the latter to stick around. Although, in the case of the original date object I shant need it anymore so I can easily destroy it without derrping my user experience. removeEventListeners() are also super cool and help browser internals better economize its already scant resources. I learned how to apply brakes on gyroscope and accelerometer so that they do not cause bodily harm or burns to a user. It also saves the battery. I borrowed a technique from the mighty <a href="http://www.webdirections.org/blog/build-a-motion-activated-security-camera-with-webrtc-canvas-and-device-orientation/" target="_blank">John Alsop</a>. Historically, I have published sites with content security policy in place. I can say the same of the presently deprecated application cache API. It is safe to say that I will publish something soon that supports service worker, then, gracefully degrades to application cache in the near future. In another Git project repository, I created a sprite in order to cull any moments of FOUC&#45; flash of unformatted content. I was able to <a href="http://css.spritegen.com/" target="_blank">create sprites</a>, then, later I was able to recall the necessary css background properties care of dokuta Jake Archibald and his fabulous <a href="http://www.spritecow.com/" target="_blank">Sprite Cow</a> which is probably modern English for Vaca de Esprite. Likewise with previous [dot]htaccess files I composed, I took care of file compression, and was exploring file concatenation. Now with task managers such as Gulp, Grunt, and the new kid Webpack, most of that kind of stuff is kid&rsquo;s stuff. I have laid the groundwork for local https testing, I created my own self signed key, request and resulting certificate with the idea of going all in with service workers. Ecmascript 6 or TC39 as it&rsquo;s known is on the radar, too, is a subject for a sabbatical weekend. I will admit this is what I do but maintain that this is not who I am either. </p> <br class="backup" />]]> </content>
+    </article>
+    <article>
+      <title>Closing and problem solving by profession</title>
+      <info>Responsible for giving the final impression</info>
+      <content><![CDATA[<div class="captioned_photo"><img src="img/motivation/7.jpg" width="" height="" alt="" class="newsLink" /><figcaption>Luis Artavia</figcaption><strong class="allClear">Luis Artavia</strong><span>Javascript Collision Avoidance, Caching &amp; Encapsulation</span></div><p class="newsLinkContent">My attention to detail and attention to providing high quality work will be an advantage to anyone. Here is a true story. I used to work as a Technical Support Agent for HP and was known as the type of employee that doesn&rsquo;t let any detail get by. This is especially important when it is necessary to present accurate work. One day during a 6am to 3pm shift, I received a call from a freelancer in Los Angeles, CA, 10 minutes before it was time for me to clock out. The client could not retrieve any new email in LotusNotes and it was mmy job to find out why. I let mmy boss know that this would qualify technically as overtime which was generally discouraged. This call could put me past the 3pm mark and I wanted to assist. My boss okayed the overtime.</p><p class="newsLinkContent">Consequently, I would spend the next hour testing, probing, and eliminating possible contributing factors. I did not have the luxury of remote assistance during this call, thus, I had to talk the client through the whole procedure as if she were my eyes and ears. And, while I was able to properly configure the MAC computer for network use I was not, however, prepared to do the same for her current local replica in LotusNotes. I did, however, eliminate a host of possible contributors to the problem for the next second level technicial. In the end, the technician in Dallas, TX, was the only party that could propertly re&#45;install the email application. I checked on her at different intervals and she was very grateful with the degree of interaction, follow&#45;up, and concern. I am sure my attention to detail and to high&#45;quality work will be an advantage for my next employer.</p><br class="backup" />]]> </content>
+    </article>
+    <article>
+      <title>Trustworthiness by nature</title>
+      <info>Managerial skills by means of positive motivation</info>
+      <content><![CDATA[<div class="captioned_photo"><img src="img/motivation/5.jpg" width="" height="" alt="" class="newsLink" /><figcaption>Luis Artavia</figcaption><strong class="allClear">Luis Artavia</strong><span>Feature Detection &amp; Asset Responsibility</span> </div><p class="newsLinkContent">I am genuinely energized by solving problems for people. It is like any other trained hobby (like learning a new skill or playing a new musical instrument). Motions become more natural with repetition. In retail, I was taught a maxim-- &quot;if you have time to lean, then, you have time to clean.&quot; I am always looking for opportunities to help anybody out. In other words: do something positive to earn that salary! I have spent enough years in customer service to tell you unequivocally that people want results quickly, in addition to, gratification from making an intelligent purchase for services rendered. I am the glue that will hold the system together. It is not unlike me to work while holding bottom rank. I am used to being invisible to some of my peers that usually will go the way of a vapor. In a short amount of time, I begin to make a name for myself even if I am a quiet wallflower all the time.</p><br class="backup" />]]> </content>
+    </article>
+    <article>
+      <title>Detail and Quality</title>
+      <info>Proactive mitigation</info>
+      <content><![CDATA[<div class="captioned_photo"><img src="img/motivation/3.jpg" width="" height="" alt="" class="newsLink" /><figcaption>Luis Artavia</figcaption><strong class="allClear">Luis Artavia</strong><span>Caching local JS variables for process offloading</span></div><p class="newsLinkContent">Here is another true story. In another stint as a junior escrow officer in Dallas, Texas at a private law practice that performed work on behalf of Fidelity Title, I like to think, in retrospect, that I was able to forestall any number of potential lawsuits. I met this lawyer through a realtor I had met in my church congregation. In order to protect this person&rsquo;s identity, we&rsquo;ll call them G$. When I arrived, G$&rsquo;s private practice had serious organizational problems. It was only G$, G$&rsquo;s spouse, a senior escrow officer, the front&#45;end receptionist, and myself. I was the newest member. In essence, any closing on a home sale or refinance that required a title insurance policy through this office (prior to me ever coming onboard) within the previous two (2) years at that point in time was going to be a problem for G$&#45;&#45; specifically G$&rsquo;s law practice. His office was exposing itself to a multitude of legal liability issues. Dozens of banks did not ever receive previous loan customers title insurance policies and paperwork. The backlog was so palpable that everybody but G$ would have a running joke in the office about how bad the situation really was. If G$ could not get a handle on 1000s of title policies prior to me ever getting there, I did not want to be there when the ship would go down. But I was not going to be an ingrate and abandon my employer either. </p><p class="newsLinkContent"> The real problem, in fact, was that G$ had gotten comfortable with not sending out title policies until he was threatened by lenders. This provoked a reactionary, as opposed to, a proactive response from G$. I hated to watch G$ squirm. Normally, owner&rsquo;s title policies would have to be in the mail to the client no later than 60 days after closing. Plus, copies of each the owner&rsquo;s and lender&rsquo;s title policies had to go into their respective files in time for the State Insurance Commissions annual scheduled inspections. G$&rsquo;s luck would run out one day surely. Fortunately for G$, I did not believe in luck. Thousands of lenders policies had to be sent out to banks eager to sue the pants off of G$ just in order to force G$ to comply. I came in on weekends by my own volition to address this and within one month of taking 30 minute lunches, plus, coming in on weekends, those policies were adequately distributed in their totality. I brought the backlog down from 2 &half; years to the normal 30 day schedule. This is another level of experience, dedication and business knowledge that I would like to bring to my next employer. </p> <br class="backup" />]]></content>
+    </article>
+    <article>
+      <title>Generative innovation</title>
+      <info>Emotional intelligence for the benefit of others</info>
+      <content><![CDATA[<div class="captioned_photo"><img src="img/motivation/4.jpg" width="" height="" alt="" class="newsLink" /><figcaption>Luis Artavia</figcaption><strong class="allClear">Luis Artavia</strong><span>Garbage collection &amp; new JS object nullification</span> </div><p class="newsLinkContent">I have a unique ability to construct innovative solutions. I have a tendency to exchange problem solving abilities even if the level of cooperation peaks and troughs in this field. Mastering intermediate to advanced javascript is important. I think I am a relevant technologist who has a solid understanding of most html5 API specifications associated with smartphones. I think we learn best together. Sometimes it takes planning in order to precipitate a positive outcome. I have always wanted to learn and teach a new subject in 20 minutes to my peers over brown bag lunches and learning material found on Git. Wouldn&rsquo;t it be great to learn a new technology related to extensible web technologies and share findings with others? I may yet learn either Japanese or Chinese Mandarin. </p> <p class="newsLinkContent">I like to develop relationships with people, too. People come to me with their proofreading concerns. I would go as far a to encourage productive proofreading that results in legitimizing a diversity of views from all peers with identical tasks in a single work group. The technically deficient learn from a mentor in the process. Also, I think it is important to always be courteous and to recognize people for their contributions and accomplishments. It is only possible to share bonds with people and share common interests in greater numbers. Nobody has ever had to ask me to share notes when I already do it on my own. Better communication is possible after tangible intra&#45;group benchmarks over time in different measurable areas have been established. You do not have to tell me to go and be proactive because I already am and have always been. I like to resolve issues quickly and thoroughly, minimizing the risks to myself, my employer, then, ultimately, our clients. </p><br class="backup" />]]></content>
+    </article>
+  </news>
+</site>

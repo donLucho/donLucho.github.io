@@ -1,0 +1,105 @@
+// ------------------- COLORS ---------------------
+// ---------- RGBs ------------------------
+
+$col_blk_trp: rgb(0,0,0); /* #000000 */
+$col_blkToRedDk_trp: rgb(51,51,51); /* #333333 */
+$col_midGrey_trp: rgb(103,103,103); /* #676767 */
+$col_midGreylt_trp: rgb(110,110,110); /* #6E6E6E */
+$col_lt2midGrey_trp: rgb(128,128,128); /* #808080 */
+$col_gryDk_trp: rgb(150,150,150); /* #969696  */ //  GREYEDOUT RED - DARK
+$col_gryNorm_trp: rgb(194,194,194); /* #C2C2C2  */ //  GREYEDOUT RED - NORMAL
+$col_newspaper_trp: rgb(235,235,235); /* #EBEBEB*/
+$col_gryLt_trp: rgb(239,239,239); /* #EFEFEF  */ //  GREYEDOUT RED - LIGHT
+$col_gryUltaLt_trp: rgb(248,248,248); /* #F8F8F8  */ //  GREYEDOUT RED - ULTRA-LIGHT
+$col_wt_trp: rgb(255,255,255); /* #FFFFFF*/
+
+$col_darkish_blue: rgb(0,108,136); /* #006C88 */ 
+$col_desertOrange: rgb(208,95,47); /* #D05F2F */ 
+
+$col_darkPink: rgb(179,97,101); /* #B36165*/ 
+$col_blakblu: rgb(74,71,69); /* #4A4745 */
+
+$col_navy: rgb(39,46,58); /* #272E3A */
+$col_skin: rgb(230,207,188); /* #E6CFBC */
+$col_blkrblu: rgb(40,47,59); /* #282F3B */
+$col_blueskies: rgb(82,220,255); /* #52DCFF */
+$col_lt_on_horzn: rgb(255,250,240); /* #FFFAF0 */
+
+// ---------- RGBAs ------------------------
+$col_zero_navy_alfa: rgba(3,108,127, 0); // # 036C7F
+
+$col_slctPink_active: rgba( 255,149,239,0.8 ); // #FF95EF vivrant pink 
+$col_slctBlue_active: rgba( 150,235,255,0.8 ); // #96EBFF vivrant baby-blue 
+
+$col_dkblu_alfa: rgba(40, 81, 204, 0.8); /* */
+$col_dkishblu_alfa: rgba( 50,118,177, 0.63 ); /* */
+$col_zeroblue_alfa: rgba(51,51,51, 0);
+$col_ptchBlk_alfa: rgba(51,51,51, 0.75); /* #333333 */
+$col_mdnt_opqe_alfa: rgba(3,108,127, 0.9); /* */
+$col_mdnt_sld_alfa: rgba(3,108,127,1.0); 
+$col_dsrtOrng_sld_alfa: rgba(208,95,47,1);
+$col_mdnt_alfa: rgba(3,108,127, 0.35); /* */
+$col_mdnt_med_alfa: rgba(0,108,136,0.8); /* */
+$col_zerosalmon_alfa: rgba(247,201,183, 0); /* #f7c9b7 */
+$col_salmon_opqe_alfa: rgba(247,201,183, 0.9);
+
+$col_disint_gnrlLee_alfa: rgba(255,119,61,0.48); /* ff773d */
+
+$col_dstng_pigblue_alfa: rgba(3,108,127, 0.35); 
+$col_disint_pigblue_alfa: rgba(3,106,124,0.48); /* #036a7c */
+$col_disint_white_alfa: rgba(255,255,255,0.63); /* #ffffff */
+$col_lt_white_alfa: rgba(255,255,255,0.48);
+$col_disint_black_alfa: rgba(0,0,0,0.63); /* #000000 */
+
+$col_disint_paleBabyBlu_alfa: rgba(196,231,255,0.63); /* # */
+$col_noonsky_alfa: rgba(82,220,255,1.0); /* sky blue */
+
+$col_wt_opqe_alfa: rgba(255, 255, 255, 0.8); /* */
+$col_bk_opqe_alfa: rgba(0,0,0,1); /* */
+
+// -------- solid HEX VALUEs ~ assortment of MANY colors in a palette -------------
+$col_transparent: transparent;
+$col_blackProper: #000000;
+$col_dkGrey_1: #010101;
+$col_drkngSkies: #036A7C;
+$col_dkGrey_2: #121212;
+$col_mdDkGrey: #464646; //med-dk grey
+$col_ltGrey: #C8C8C8; // lite greyish
+$col_newspaper_lt: #EBEBEB; // newspaper white
+$col_newspaper: #DFDFDF; // newspaper white
+$col_whiteProper: #FFFFFF; // white
+$col_ltGreen: #99FF88; // lite greenish
+$col_ltPeach: #E6CFBC; // lite peach skin
+$col_generalLee: #FF773D; //general lee
+$col_ltNavy: #036C7F; // lite navy
+$col_OpheliaBlue: #2955CC; // Ophelia blue		
+$col_babyBlueSky: #D9DDFC; // baby blue sky 
+$col_blueSky: #52DCFF; // baby blue sky
+$col_duskBlu: #6C9DA6; // dusk blu darkening sky
+$col_duskShad: #006C88; // dusk blu shadow
+$col_yellow: #FFFF00; // plain yellow
+
+// -------- yours truly -------------------
+// $yours: 'don Lucho Web';
+$yours: 'Luis Artavia';
+
+// -------- FONT FACE attribute -------------
+$fntFce_weight: normal;
+$fntFce_style: normal;
+$fntFce_family: 'VanillaRegular';
+$fntFce_url_paths_eot: url('../fonts/Vanilla-webfont.eot'); 
+
+$fntFce_url_paths_fix_all: url('../fonts/Vanilla-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/Vanilla-webfont.woff') format('woff'), url('../fonts/Vanilla-webfont.ttf') format('truetype'), url('../fonts/Vanilla-webfont.svg#VanillaRegular') format('svg'); 
+
+// -------- FONT STACKS -------------
+$fnt_Blockquote: "Bitstream Vera Sans Mono", monospace;
+
+$fnt_BookAntiqua: "Book Antiqua", Trebuchet, Cambria, "Times New Roman", Times, serif, "Palatino Linotype", Helvetica, "DejaVu Serif";
+
+$fnt_Courier: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
+
+$fnt_Impact: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans-serif;
+
+$fnt_Calibri: Calibri, Corbel, "Trebuchet MS", Arial, sans-serif, Verdana, "Verdana Ref", "Lucida Sans Unicode", "DejaVu Sans";
+
+$fnt_Bitstream: "Bitstream Vera Sans Mono", Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono","Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
